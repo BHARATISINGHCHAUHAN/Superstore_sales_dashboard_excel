@@ -103,5 +103,4 @@ The dashboard preview is available in:
 
 **Bharati Singh Chauhan**
 
-⭐ If you found this project useful, consider giving it a star!# Superstore_sales_dashboard_excel
-Interactive Superstore Sales Dashboard built in Microsoft Excel using Pivot tables,Pivot charts,KPIs, and Slicers
+⭐ If you found this project useful, consider giving it a star!
